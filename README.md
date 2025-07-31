@@ -1,5 +1,6 @@
-# Data_StoryTelling_REJALAMUNIESA
-Análisis de Listados de Airbnb en Nueva York - Data Science II - Comisión 67410 
+Data Science II - Comisión 67410 
+
+## Análisis de Listados de Airbnb en Nueva York
 
 ## Descripción
 Este proyecto utiliza el dataset de Airbnb NYC 2019 para predecir el precio de los listings mediante modelos de Machine Learning (regresión). 
